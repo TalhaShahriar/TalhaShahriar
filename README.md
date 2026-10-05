@@ -13,7 +13,7 @@
   <a href="https://github.com/TalhaShahriar">
     <img src="https://img.shields.io/badge/GitHub-TalhaShahriar-181717?style=flat&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/talha-shahriar/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
   </a>
 </p>
